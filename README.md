@@ -14,7 +14,7 @@ This project develops an automated system for recognizing and extracting informa
 Input Image 
 ![0_0](https://github.com/user-attachments/assets/763ef70b-3dc9-4cc3-8ae8-0616d053ee41)
 → Table Detection (DETR)
-<img width="510" height="583" alt="image" src="https://github.com/user-attachments/assets/4d886b8e-0465-462b-a79d-0cbbce33be04" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4d886b8e-0465-462b-a79d-0cbbce33be04" />
 → Table Cropping 
 → Table Structure Recognition (Rows & Columns) 
 <img width="413" height="506" alt="image" src="https://github.com/user-attachments/assets/616f4a7f-3254-4603-bc89-66960946a732" />
